@@ -1,6 +1,6 @@
 # Hi there, I'm Vaibhav! 👋
 
-I’m passionate about building, optimizing, and applying AI/ML alongside full-stack development to create real-world impact. Driven by continuous learning, I’ve combined my academic foundation in Python and its machine learning ecosystem (PyTorch, TensorFlow, Scikit-Learn) with self-taught expertise in React, HTML, CSS, and Unity (C#). I thrive on tackling complex engineering challenges and turning innovative ideas into functional, user-centric solutions.
+I’m passionate about building, optimizing, and applying AI/ML solutions alongside full-stack web development to create real-world impact. Driven by continuous learning, I complement my academic foundation in Python and its machine learning ecosystem (PyTorch, TensorFlow, Scikit-Learn) with self-taught expertise in full-stack technologies like React, HTML, and CSS, alongside game development in Unity (C#). I am constantly motivated to tackle complex engineering challenges and turn innovative ideas into functional, user-centric solutions.
 
 ---
 
