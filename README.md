@@ -7,16 +7,17 @@ I’m passionate about building, optimizing, and applying AI/ML solutions alongs
 ### 🚀 What I'm Up To
 * 🎓 **Education:** Computer Science @ UCI with a specialization in **Intelligent Systems**
 * 🧠 **Focus Areas:** Optimizing Machine Learning models and building responsive full-stack applications.
+
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages/Frameworks** | Python, C++, Java, SQL, TypeScript, JavaScript, React, FastAPI, REST APIs, C\#|
-| **AI / Machine Learning** | Machine Learning, Supervised/Unsupervised Learning, Deep Learning, NLP, Computer Vision, PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, Predictive Modeling, Data Analysis|
-| **Databases/Cloud Infrastructures** | MySQL, PostgreSQL, Supabase, Google Cloud Platform|
-| **Tools & Platforms** | Docker, Git, Unity, CI/CD, Data Structures, Algorithms|
+| **Languages/Frameworks** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) |
+| **AI / Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Databases/Cloud Infrastructures** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
+| **Tools & Platforms** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) |
 
 ---
 
@@ -25,6 +26,7 @@ I’m passionate about building, optimizing, and applying AI/ML solutions alongs
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavSatish&theme=radical" alt="Vaibhav's Streak Stats" height="180" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VaibhavSatish&theme=radical" alt="Top Languages" height="180" />
+</p>
 
 ---
 
