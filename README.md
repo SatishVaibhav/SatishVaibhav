@@ -13,16 +13,16 @@ Hi There! My name is Vaibhav, a Computer Science student at the University of Ca
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, C#, SQL, HTML/CSS, JavaScript, C++, Java|
-| **AI / Machine Learning** | PyTorch, TensorFlow, Scikit-Learn |
-| **Web & Frameworks** | React, Node.js, FastAPI, RESTful APIs, OpenAPI|
-| **Tools & Platforms** | Git, GitHub, Unity|
+| **Languages/Frameworks** | Python, C++, Java, SQL, TypeScript, JavaScript, React, FastAPI, REST APIs, C\#|
+| **AI / Machine Learning** | Machine Learning, Supervised/Unsupervised Learning, Deep Learning, NLP, Computer Vision, PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, Predictive Modeling, Data Analysis|
+| **Databases/Cloud Infrastructures** | MySQL, PostgreSQL, Supabase, Google Cloud Platform|
+| **Tools & Platforms** | Docker, Git, Unity, CI/CD, Data Structures, Algorithms|
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavSatish&theme=radical" alt="Vaibhav's Streak Stats" height="180" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VaibhavSatish&theme=radical" alt="Top Languages" height="180" />
 
