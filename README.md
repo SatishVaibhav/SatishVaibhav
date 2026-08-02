@@ -1,11 +1,11 @@
 # Hi there, I'm Vaibhav! 👋
 
-Hi there! I'm Vaibhav, a Computer Science student at the University of California, Irvine, specializing in **Intelligent Systems**. I’m passionate about building, optimizing, and applying AI/ML alongside full-stack development to create real-world impact. Driven by continuous learning, I’ve combined my academic foundation in Python and its machine learning ecosystem (PyTorch, TensorFlow, Scikit-Learn) with self-taught expertise in React, HTML, CSS, and Unity (C#). I thrive on tackling complex engineering challenges and turning innovative ideas into functional, user-centric solutions.
+I’m passionate about building, optimizing, and applying AI/ML alongside full-stack development to create real-world impact. Driven by continuous learning, I’ve combined my academic foundation in Python and its machine learning ecosystem (PyTorch, TensorFlow, Scikit-Learn) with self-taught expertise in React, HTML, CSS, and Unity (C#). I thrive on tackling complex engineering challenges and turning innovative ideas into functional, user-centric solutions.
 
 ---
 
 ### 🚀 What I'm Up To
-* 🎓 **Education:** Computer Science @ UCI
+* 🎓 **Education:** Computer Science @ UCI with a specialization in **Intelligent Systems**
 * 🧠 **Focus Areas:** Optimizing Machine Learning models and building responsive full-stack applications.
 ---
 
