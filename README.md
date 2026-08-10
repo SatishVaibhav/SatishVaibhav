@@ -6,7 +6,7 @@ I’m passionate about building, optimizing, and applying AI/ML solutions alongs
 
 ### 🚀 What I'm Up To
 * 🎓 **Education:** Computer Science @ UCI with a specialization in **Intelligent Systems**
-* 🧠 **Focus Areas:** Optimizing Machine Learning models and building responsive full-stack applications.
+* 🧠 **Focus Areas:** Building and Optimizing Machine Learning models alongside responsive full-stack applications.
 
 ---
 
