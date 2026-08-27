@@ -1,15 +1,8 @@
 # Hi there, I'm Vaibhav! 👋
 
-I’m passionate about building, optimizing, and applying AI/ML solutions alongside full-stack web development to create real-world impact. Driven by continuous learning, I complement my academic foundation in Python and its machine learning ecosystem (PyTorch, TensorFlow, Scikit-Learn, Predictive Modeling, Data Analysis) with self-taught expertise in full-stack technologies like React, FastAPI, REST APIs, HTML, and CSS, alongside game development in Unity (C#). I am constantly motivated to tackle complex engineering challenges and turn innovative ideas into functional, user-centric solutions.
+Rising Junior pursuing a CS degree with a specialization in Intelligent Systems at UC Irvine, passionate about building, optimizing, and applying AI/ML solutions alongside full-stack development to create real-world impact. Driven by an eagerness to learn, I complement my abilities in Python and its machine learning ecosystem with self-taught expertise in full-stack technologies like React, FastAPI, and REST APIs. I am constantly motivated and looking for opportunities to tackle complex engineering challenges and turn innovative ideas into functional, user-centric solutions.
 
 ---
-
-### 🚀 What I'm Up To
-* 🎓 **Education:** Computer Science @ UCI with a specialization in **Intelligent Systems**
-* 🧠 **Focus Areas:** Building and Optimizing Machine Learning models alongside responsive full-stack applications.
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 | Category | Technologies |
