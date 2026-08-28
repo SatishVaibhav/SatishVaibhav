@@ -14,15 +14,6 @@ Rising Junior pursuing a CS degree with a specialization in Intelligent Systems 
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavSatish&theme=radical" alt="Vaibhav's Streak Stats" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VaibhavSatish&theme=radical" alt="Top Languages" height="180" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 <p align="left">
